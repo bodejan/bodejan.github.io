@@ -1,0 +1,14 @@
+title: Jan Bode's
+tagline: Personal Website
+description: ''
+url: https://bodejan.github.io/
+baseurl: ''
+paginate: 5
+permalink: pretty
+author:
+  name: Jan Bode
+  url: jan.bod3.de
+  email: jan@bod3.de
+plugins:
+- jekyll-paginate
+version: 1.1.0

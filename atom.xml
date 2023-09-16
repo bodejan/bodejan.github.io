@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Jan Bode's</title>
+ <link href="https://bodejan.github.io//atom.xml" rel="self"/>
+ <link href="https://bodejan.github.io//"/>
+ <updated>2023-09-16T17:48:59-06:00</updated>
+ <id>https://bodejan.github.io/</id>
+ <author>
+   <name>Jan Bode</name>
+   <email>jan@bod3.de</email>
+ </author>
+
+ 
+ <entry>
+   <title>Curriculum Vitae</title>
+   <link href="https://bodejan.github.io//2023/09/12/cv/"/>
+   <updated>2023-09-12T00:00:00-06:00</updated>
+   <id>https://bodejan.github.io//2023/09/12/cv</id>
+   <content type="html">&lt;!-- https://fonts.google.com/icons?selected=Material+Symbols+Outlined:workspace_premium:FILL@0;wght@400;GRAD@0;opsz@24 --&gt;
+
+&lt;h2&gt;Positions&lt;/h2&gt;
+&lt;div style=&quot;margin-left: 20px;&quot;&gt;
+  
+
+    &lt;h3&gt;
+    Master@IBM - Customer Success Management (CSM)
+    &lt;/h3&gt;
+
+    
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt; Jan 2023 &lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Berlin, Germany&lt;/p&gt;
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt; IBM&lt;/p&gt;
+    
+
+    
+    &lt;blockquote&gt;As a student at Master@IBM (CSM), I continue my research in the field of data mesh and build expertise in the overarching topic of data governance.&lt;/blockquote&gt;
+    
+
+  
+
+    &lt;h3&gt;
+    Collaborating Student Researcher
+    &lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Oct 2022 &amp;mdash; Jan 2023&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Berlin, Germany&lt;/p&gt;
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt; IBM&lt;/p&gt;
+    
+
+    
+    &lt;blockquote&gt;As a student researcher at KSRI@KIT x IBM I worked in a joined research project exploring how the theoretical foundations of data mesh are applied in practice.&lt;/blockquote&gt;
+    
+
+  
+
+    &lt;h3&gt;
+    Collaborating Student Researcher
+    &lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Oct 2022 &amp;mdash; Jan 2023&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Berlin, Germany&lt;/p&gt;
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt; KSRI@KIT&lt;/p&gt;
+    
+
+    
+
+  
+
+    &lt;h3&gt;
+    Student Researcher
+    &lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Mar 2022 &amp;mdash; Sep 2022&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Karlsruhe, Baden-Württemberg, Germany&lt;/p&gt;
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt; KSRI@KIT&lt;/p&gt;
+    
+
+    
+    &lt;blockquote&gt;As a student researcher, I am part of the interdisciplinary team of bi.smart. Bi.smart is a research project that develops innovative tools for manufacturing companies, particularly SMEs, to support the integrated development of smart products and data-based services. Furthermore, I did research in the domain of data sharing.&lt;/blockquote&gt;
+    
+
+  
+
+    &lt;h3&gt;
+    Bachelor&apos;s Thesis
+    &lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Apr 2021 &amp;mdash; Sep 2021&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Karlsruhe, Baden-Württemberg, Deutschland&lt;/p&gt;
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt; CAS Software AG&lt;/p&gt;
+    
+
+    
+    &lt;blockquote&gt;Bachelor thesis in cooperation with CAS Software AG and Karlsruhe Service Research Institute at KIT with the title &quot;Towards Designing Explainable Constraint-based Expert Systems&quot;.  The thesis is available on Zenodo (https://zenodo.org/record/5634105)&lt;/blockquote&gt;
+    
+
+  
+
+    &lt;h3&gt;
+    Student Teaching Assistant - Mathematics I 
+    &lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Oct 2020 &amp;mdash; Apr 2021&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Karlsruhe, Baden-Württemberg, Germany&lt;/p&gt;
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt; University of Karlsruhe&lt;/p&gt;
+    
+
+    
+    &lt;blockquote&gt;Student teaching assistants assist the lecture &quot;Mathematics I&quot; by conducting two weekly seminars for over 30 undergraduate students each, to deepen the knowledge they obtained in the lecture.   During these tutorials, I recapitulated learned contents and showed them how to apply learned theorems in exercises.&lt;/blockquote&gt;
+    
+
+  
+
+    &lt;h3&gt;
+    Project Development in Real Estate | Internship
+    &lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Feb 2018 &amp;mdash; Apr 2018&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Hamburg, Hamburg, Germany&lt;/p&gt;
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt; NORD PROJECT GBI Beteiligungsgesellschaft mbH&lt;/p&gt;
+    
+
+    
+    &lt;blockquote&gt;As an intern for NORD PROJECT Immobilien - associated with GBI AG one of the most important real estate developers in Germany, I supported the management and employees in various areas including, acquisition, market research, project management, and project development.&lt;/blockquote&gt;
+    
+
+  
+
+    &lt;h3&gt;
+    Consulting and Renewables | Internship
+    &lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Nov 2017 &amp;mdash; Dec 2017&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Seville, Andalusia, Spain&lt;/p&gt;
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt; Grupotec Renovables&lt;/p&gt;
+    
+
+    
+    &lt;blockquote&gt;At Grupotec Renewables and Consulting Services, I mostly assisted in customer acquisition and the creation of reports for real estate. The internship was part of the ESF-funded program Integration through Exchange by Network Event Berlin. In addition to the internship, the program includes an intense preparation and follow-up period, as well as a language course.&lt;/blockquote&gt;
+    
+
+  
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2&gt;Education&lt;/h2&gt;
+&lt;div style=&quot;margin-left: 20px;&quot;&gt;
+  
+    &lt;h3&gt;Master of Science - MS&lt;/h3&gt;
+    
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Oct 2022 &amp;mdash; Oct 2024&lt;/span&gt;
+    &lt;/p&gt;
+    
+    
+    
+    
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Technische Universität Berlin&lt;/p&gt;
+    
+    
+    
+    
+  
+    &lt;h3&gt;Overseas&lt;/h3&gt;
+    
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Aug 2023 &amp;mdash; Dec 2023&lt;/span&gt;
+    &lt;/p&gt;
+    
+    
+    
+    
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Universidad Nacional Autónoma de México&lt;/p&gt;
+    
+    
+    
+    
+  
+    &lt;h3&gt;Summer School&lt;/h3&gt;
+    
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Aug 2022 &amp;mdash; Aug 2022&lt;/span&gt;
+    &lt;/p&gt;
+    
+    
+    
+    
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Kyrgyz-German Institute of Applied Informatics&lt;/p&gt;
+    
+    
+    
+      &lt;blockquote&gt;
+        &lt;p&gt;Summer School program in Bishkek, Kyrgyztan.  Funded by the German Academic Exchange Service (DAAD).&lt;/p&gt;
+        &lt;p&gt;&lt;/p&gt;
+      &lt;/blockquote&gt;
+    
+    
+  
+    &lt;h3&gt;Bachelor of Science - BS&lt;/h3&gt;
+    
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Oct 2018 &amp;mdash; 2022&lt;/span&gt;
+    &lt;/p&gt;
+    
+    
+    
+    
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Karlsruher Institut für Technologie (KIT)&lt;/p&gt;
+    
+    
+    
+      &lt;blockquote&gt;
+        &lt;p&gt;The degree of Industrial Engineering and Management at KIT allows students a high degree of flexibility. After one and a half years of foundational studies, I specialized in Information Systems Management.&lt;/p&gt;
+        &lt;p&gt;&lt;/p&gt;
+      &lt;/blockquote&gt;
+    
+    
+  
+    &lt;h3&gt;Erasmus+&lt;/h3&gt;
+    
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Sep 2021 &amp;mdash; Feb 2022&lt;/span&gt;
+    &lt;/p&gt;
+    
+    
+    
+    
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Universitat Politècnica de Catalunya&lt;/p&gt;
+    
+    
+    
+      &lt;blockquote&gt;
+        &lt;p&gt;Erasmus+ student at the faculty of informatics at UPC for one semester&lt;/p&gt;
+        &lt;p&gt;&lt;/p&gt;
+      &lt;/blockquote&gt;
+    
+    
+  
+    &lt;h3&gt;High School Diploma&lt;/h3&gt;
+    
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;2010 &amp;mdash; 2017&lt;/span&gt;
+    &lt;/p&gt;
+    
+    
+    
+    
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Sophie-Scholl-Schule&lt;/p&gt;
+    
+    
+    
+      &lt;blockquote&gt;
+        &lt;p&gt;Advanced courses: Mathematics and Geography&lt;/p&gt;
+        &lt;p&gt;Participation in China-exchange program with the Jiaodafuzhong middle school in Beijing and the Spain-exchange program with the Colegio Alemán de Sevilla.&lt;/p&gt;
+      &lt;/blockquote&gt;
+    
+    
+  
+    &lt;h3&gt;Overseas&lt;/h3&gt;
+    
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;2014 &amp;mdash; 2014&lt;/span&gt;
+    &lt;/p&gt;
+    
+    
+    
+    
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;location_on&lt;/span&gt; Ōtaki College, Ōtaki, New Zealand&lt;/p&gt;
+    
+    
+    
+    
+  
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2&gt;Certifications&lt;/h2&gt;
+&lt;div style=&quot;margin-left: 20px;&quot;&gt;
+  
+    &lt;h3&gt;TOEFL iBT® (C1|107)&lt;/h3&gt;
+    
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Nov 2021 &amp;mdash; Nov 2023&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+    
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt; ETS Global B.V.&lt;/p&gt;
+    
+    
+    
+    
+  
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2&gt;Honors&lt;/h2&gt;
+&lt;div style=&quot;margin-left: 20px;&quot;&gt;
+  
+
+    &lt;h3&gt;Wissen+Kompetenzen Scholarship &lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Oct 2019&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+  
+
+    &lt;h3&gt;e-fellows.net online Scholarship&lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Aug 2019&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+  
+
+    &lt;h3&gt;Huawei Scholarship&lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Oct 2021&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+    &lt;blockquote&gt;Huawei awards the scholarship to outstanding students in the fields of Computer Science and Industrial Engineering and Management during their last year of study.&lt;/blockquote&gt;
+    
+
+  
+
+    &lt;h3&gt;DAAD Scholarship&lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Aug 2022&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+  
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2&gt;Publications&lt;/h2&gt;
+&lt;div style=&quot;margin-left: 20px;&quot;&gt;
+  
+
+    
+    &lt;h3&gt;&lt;a href=&quot;https://aisel.aisnet.org/wi2022/student_track/student_track/8/&quot;&gt;Explainable AI for Constraint-Based Expert Systems&lt;/a&gt;&lt;/h3&gt;
+    
+
+    
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Feb 22, 2022&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;library_books&lt;/span&gt;
+      &lt;span&gt;Wirtschaftsinformatik 2022 Proceedings&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+    &lt;blockquote&gt;The need to derive explanations from machine learning (ML)-based AI systems has been addressed in recent research due to the opaqueness of their processing. However, a significant amount of productive AI systems are not based on ML but are expert systems including strong opaqueness. A resulting lack of understanding causes massive inefficiencies in business processes that involve opaque expert systems. This work uses recent research interest in explainable AI (XAI) to generate knowledge for the design of explanations in constraint-based expert systems. Following the Design Science Research paradigm, we develop design requirements and design principles. Subsequently, we design an artifact and evaluate the artifact in two experiments. We observe the following phenomena. First, global explanations in a textual format were well-received. Second, abstract local explanations improved comprehensibility. Third, contrastive explanations successfully assisted in the resolution of contradictions. Finally, a local tree-based explanation was perceived as challenging to understand.&lt;/blockquote&gt;
+    
+
+  
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2&gt;Languages&lt;/h2&gt;
+&lt;div style=&quot;margin-left: 20px;&quot;&gt;
+  
+
+    &lt;div class=&quot;skill-bar-container&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
+        &lt;span class=&quot;skill-bar&quot; style=&quot;display: flex; height: 35px; background-color: transparent; width: 100%; border: 0.5px; border-radius: 4px;&quot;&gt;
+            &lt;span class=&quot;skill-name&quot; style=&quot;background: #b3cee9; padding: 0 10px; width: 15%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-top-left-radius: 4px; border-bottom-left-radius: 4px;&quot;&gt;English:&lt;/span&gt;
+            &lt;span class=&quot;skill-name&quot; style=&quot;background: #d7edfa; padding: 0 px; white-space: nowrap; text-overflow: ellipsis; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width:
+                
+                    68%
+                
+                ;&quot;&gt;
+                &lt;span class=&quot;skill-name&quot; style=&quot;position: relative; top: 5%; left: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&quot;&gt;Full professional proficiency&lt;/span&gt;
+            &lt;/span&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;  
+
+
+  
+
+    &lt;div class=&quot;skill-bar-container&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
+        &lt;span class=&quot;skill-bar&quot; style=&quot;display: flex; height: 35px; background-color: transparent; width: 100%; border: 0.5px; border-radius: 4px;&quot;&gt;
+            &lt;span class=&quot;skill-name&quot; style=&quot;background: #b3cee9; padding: 0 10px; width: 15%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-top-left-radius: 4px; border-bottom-left-radius: 4px;&quot;&gt;Spanish:&lt;/span&gt;
+            &lt;span class=&quot;skill-name&quot; style=&quot;background: #d7edfa; padding: 0 px; white-space: nowrap; text-overflow: ellipsis; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width:
+                
+                    51%
+                
+                ;&quot;&gt;
+                &lt;span class=&quot;skill-name&quot; style=&quot;position: relative; top: 5%; left: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&quot;&gt;Professional working proficiency&lt;/span&gt;
+            &lt;/span&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;  
+
+
+  
+
+    &lt;div class=&quot;skill-bar-container&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
+        &lt;span class=&quot;skill-bar&quot; style=&quot;display: flex; height: 35px; background-color: transparent; width: 100%; border: 0.5px; border-radius: 4px;&quot;&gt;
+            &lt;span class=&quot;skill-name&quot; style=&quot;background: #b3cee9; padding: 0 10px; width: 15%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-top-left-radius: 4px; border-bottom-left-radius: 4px;&quot;&gt;German:&lt;/span&gt;
+            &lt;span class=&quot;skill-name&quot; style=&quot;background: #d7edfa; padding: 0 px; white-space: nowrap; text-overflow: ellipsis; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width:
+                
+                    85%
+                
+                ;&quot;&gt;
+                &lt;span class=&quot;skill-name&quot; style=&quot;position: relative; top: 5%; left: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&quot;&gt;Native or bilingual proficiency&lt;/span&gt;
+            &lt;/span&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;  
+
+
+  
+
+    &lt;div class=&quot;skill-bar-container&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
+        &lt;span class=&quot;skill-bar&quot; style=&quot;display: flex; height: 35px; background-color: transparent; width: 100%; border: 0.5px; border-radius: 4px;&quot;&gt;
+            &lt;span class=&quot;skill-name&quot; style=&quot;background: #b3cee9; padding: 0 10px; width: 15%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-top-left-radius: 4px; border-bottom-left-radius: 4px;&quot;&gt;Catalan:&lt;/span&gt;
+            &lt;span class=&quot;skill-name&quot; style=&quot;background: #d7edfa; padding: 0 px; white-space: nowrap; text-overflow: ellipsis; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width:
+                
+                    17%
+                
+                ;&quot;&gt;
+                &lt;span class=&quot;skill-name&quot; style=&quot;position: relative; top: 5%; left: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&quot;&gt;Elementary proficiency&lt;/span&gt;
+            &lt;/span&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;  
+
+
+  
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2&gt;Test Scores&lt;/h2&gt;
+&lt;div style=&quot;margin-left: 20px;&quot;&gt;
+  
+
+    &lt;h3&gt;Towards Designing Explainable Constraint-based Expert Systems&lt;/h3&gt;
+
+    
+    &lt;p&gt;
+      &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
+      &lt;span&gt;Sep 2021&lt;/span&gt;
+    &lt;/p&gt;
+    
+
+    
+
+    
+    &lt;p&gt;&lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;workspace_premium&lt;/span&gt; 1.0&lt;/p&gt;
+    
+
+  
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;!-- 
+&lt;h2&gt;Skills&lt;/h2&gt;
+&lt;div style=&quot;margin-left: 20px;&quot;&gt;
+  &lt;ul&gt;
+    
+    &lt;li&gt;Data Mesh&lt;/li&gt;
+    
+    &lt;li&gt;Data Fabric&lt;/li&gt;
+    
+    &lt;li&gt;XAI&lt;/li&gt;
+    
+    &lt;li&gt;Data Sharing&lt;/li&gt;
+    
+    &lt;li&gt;Digital Services&lt;/li&gt;
+    
+    &lt;li&gt;Product Configuration&lt;/li&gt;
+    
+    &lt;li&gt;Research&lt;/li&gt;
+    
+    &lt;li&gt;Qualitative Research&lt;/li&gt;
+    
+    &lt;li&gt;Web Development (Vue, Flask)&lt;/li&gt;
+    
+    &lt;li&gt;Englisch&lt;/li&gt;
+    
+    &lt;li&gt;Spanish&lt;/li&gt;
+    
+    &lt;li&gt;Python&lt;/li&gt;
+    
+    &lt;li&gt;Java&lt;/li&gt;
+    
+    &lt;li&gt;JavaScript&lt;/li&gt;
+    
+    &lt;li&gt;HTML5&lt;/li&gt;
+    
+    &lt;li&gt;Git&lt;/li&gt;
+    
+    &lt;li&gt;AngularJS&lt;/li&gt;
+    
+    &lt;li&gt;Vue.js&lt;/li&gt;
+    
+    &lt;li&gt;Flask&lt;/li&gt;
+    
+  &lt;/ul&gt;
+&lt;/div&gt;
+ --&gt;
+</content>
+ </entry>
+ 
+
+</feed>
