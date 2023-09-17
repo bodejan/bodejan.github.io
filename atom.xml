@@ -4,7 +4,7 @@
  <title>Jan Bode's</title>
  <link href="https://bodejan.github.io//atom.xml" rel="self"/>
  <link href="https://bodejan.github.io//"/>
- <updated>2023-09-16T18:00:50-06:00</updated>
+ <updated>2023-09-16T18:16:51-06:00</updated>
  <id>https://bodejan.github.io/</id>
  <author>
    <name>Jan Bode</name>
@@ -509,71 +509,17 @@
 
 &lt;h2&gt;Languages&lt;/h2&gt;
 &lt;div style=&quot;margin-left: 20px;&quot;&gt;
-  
-
-    &lt;div class=&quot;skill-bar-container&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
-        &lt;span class=&quot;skill-bar&quot; style=&quot;display: flex; height: 35px; background-color: transparent; width: 100%; border: 0.5px; border-radius: 4px;&quot;&gt;
-            &lt;span class=&quot;skill-name&quot; style=&quot;background: #b3cee9; padding: 0 10px; width: 15%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-top-left-radius: 4px; border-bottom-left-radius: 4px;&quot;&gt;English:&lt;/span&gt;
-            &lt;span class=&quot;skill-name&quot; style=&quot;background: #d7edfa; padding: 0 px; white-space: nowrap; text-overflow: ellipsis; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width:
-                
-                    68%
-                
-                ;&quot;&gt;
-                &lt;span class=&quot;skill-name&quot; style=&quot;position: relative; top: 5%; left: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&quot;&gt;Full professional proficiency&lt;/span&gt;
-            &lt;/span&gt;
-        &lt;/span&gt;
-    &lt;/div&gt;  
-
-
-  
-
-    &lt;div class=&quot;skill-bar-container&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
-        &lt;span class=&quot;skill-bar&quot; style=&quot;display: flex; height: 35px; background-color: transparent; width: 100%; border: 0.5px; border-radius: 4px;&quot;&gt;
-            &lt;span class=&quot;skill-name&quot; style=&quot;background: #b3cee9; padding: 0 10px; width: 15%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-top-left-radius: 4px; border-bottom-left-radius: 4px;&quot;&gt;Spanish:&lt;/span&gt;
-            &lt;span class=&quot;skill-name&quot; style=&quot;background: #d7edfa; padding: 0 px; white-space: nowrap; text-overflow: ellipsis; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width:
-                
-                    51%
-                
-                ;&quot;&gt;
-                &lt;span class=&quot;skill-name&quot; style=&quot;position: relative; top: 5%; left: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&quot;&gt;Professional working proficiency&lt;/span&gt;
-            &lt;/span&gt;
-        &lt;/span&gt;
-    &lt;/div&gt;  
-
-
-  
-
-    &lt;div class=&quot;skill-bar-container&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
-        &lt;span class=&quot;skill-bar&quot; style=&quot;display: flex; height: 35px; background-color: transparent; width: 100%; border: 0.5px; border-radius: 4px;&quot;&gt;
-            &lt;span class=&quot;skill-name&quot; style=&quot;background: #b3cee9; padding: 0 10px; width: 15%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-top-left-radius: 4px; border-bottom-left-radius: 4px;&quot;&gt;German:&lt;/span&gt;
-            &lt;span class=&quot;skill-name&quot; style=&quot;background: #d7edfa; padding: 0 px; white-space: nowrap; text-overflow: ellipsis; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width:
-                
-                    85%
-                
-                ;&quot;&gt;
-                &lt;span class=&quot;skill-name&quot; style=&quot;position: relative; top: 5%; left: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&quot;&gt;Native or bilingual proficiency&lt;/span&gt;
-            &lt;/span&gt;
-        &lt;/span&gt;
-    &lt;/div&gt;  
-
-
-  
-
-    &lt;div class=&quot;skill-bar-container&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
-        &lt;span class=&quot;skill-bar&quot; style=&quot;display: flex; height: 35px; background-color: transparent; width: 100%; border: 0.5px; border-radius: 4px;&quot;&gt;
-            &lt;span class=&quot;skill-name&quot; style=&quot;background: #b3cee9; padding: 0 10px; width: 15%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-top-left-radius: 4px; border-bottom-left-radius: 4px;&quot;&gt;Catalan:&lt;/span&gt;
-            &lt;span class=&quot;skill-name&quot; style=&quot;background: #d7edfa; padding: 0 px; white-space: nowrap; text-overflow: ellipsis; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width:
-                
-                    17%
-                
-                ;&quot;&gt;
-                &lt;span class=&quot;skill-name&quot; style=&quot;position: relative; top: 5%; left: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;&quot;&gt;Elementary proficiency&lt;/span&gt;
-            &lt;/span&gt;
-        &lt;/span&gt;
-    &lt;/div&gt;  
-
-
-  
+  &lt;ul&gt;
+    
+    &lt;li&gt;&lt;strong&gt;English: &lt;/strong&gt;Full professional proficiency&lt;/li&gt;
+    
+    &lt;li&gt;&lt;strong&gt;Spanish: &lt;/strong&gt;Professional working proficiency&lt;/li&gt;
+    
+    &lt;li&gt;&lt;strong&gt;German: &lt;/strong&gt;Native or bilingual proficiency&lt;/li&gt;
+    
+    &lt;li&gt;&lt;strong&gt;Catalan: &lt;/strong&gt;Elementary proficiency&lt;/li&gt;
+    
+  &lt;/ul&gt;
 &lt;/div&gt;
 &lt;hr /&gt;
 
