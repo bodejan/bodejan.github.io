@@ -4,7 +4,7 @@
  <title>Jan Bode's</title>
  <link href="https://bodejan.github.io//atom.xml" rel="self"/>
  <link href="https://bodejan.github.io//"/>
- <updated>2023-09-24T14:58:05-06:00</updated>
+ <updated>2023-09-24T15:03:21-06:00</updated>
  <id>https://bodejan.github.io/</id>
  <author>
    <name>Jan Bode</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Curriculum Vitae 2</title>
+   <title>Curriculum Vitae</title>
    <link href="https://bodejan.github.io//2023/09/20/cv/"/>
    <updated>2023-09-20T00:00:00-06:00</updated>
    <id>https://bodejan.github.io//2023/09/20/cv</id>
@@ -50,6 +50,8 @@
   
 
   
+
+  
   &lt;blockquote&gt;As a student at Master@IBM (CSM), I continue my research in the field of data mesh and build expertise in the overarching topic of data governance.&lt;/blockquote&gt;
   
 
@@ -82,6 +84,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt;
   &lt;span&gt; IBM &lt;/span&gt; 
   &lt;/p&gt;
+  
+
   
 
   
@@ -121,6 +125,8 @@
 
   
 
+  
+
   &lt;/div&gt;
 
 &lt;div style=&quot;margin-left: 20px;&quot;&gt;
@@ -150,6 +156,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt;
   &lt;span&gt; KSRI@KIT &lt;/span&gt; 
   &lt;/p&gt;
+  
+
   
 
   
@@ -188,6 +196,8 @@
   
 
   
+
+  
   &lt;blockquote&gt;Bachelor thesis in cooperation with CAS Software AG and Karlsruhe Service Research Institute at KIT with the title &quot;Towards Designing Explainable Constraint-based Expert Systems&quot;.  The thesis is available on Zenodo (https://zenodo.org/record/5634105)&lt;/blockquote&gt;
   
 
@@ -220,6 +230,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt;
   &lt;span&gt; University of Karlsruhe &lt;/span&gt; 
   &lt;/p&gt;
+  
+
   
 
   
@@ -258,6 +270,8 @@
   
 
   
+
+  
   &lt;blockquote&gt;As an intern for NORD PROJECT Immobilien - associated with GBI AG one of the most important real estate developers in Germany, I supported the management and employees in various areas including, acquisition, market research, project management, and project development.&lt;/blockquote&gt;
   
 
@@ -290,6 +304,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt;
   &lt;span&gt; Grupotec Renovables &lt;/span&gt; 
   &lt;/p&gt;
+  
+
   
 
   
@@ -328,6 +344,8 @@
 
   
 
+  
+
   &lt;/div&gt;
 
 &lt;div style=&quot;margin-left: 20px;&quot;&gt;
@@ -352,6 +370,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt;
   &lt;span&gt; Universidad Nacional Autónoma de México &lt;/span&gt; 
   &lt;/p&gt;
+  
+
   
 
   
@@ -384,6 +404,8 @@
 
   
 
+  
+
   &lt;/div&gt;
 
 &lt;div style=&quot;margin-left: 20px;&quot;&gt;
@@ -408,6 +430,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt;
   &lt;span&gt; Karlsruher Institut für Technologie (KIT) &lt;/span&gt; 
   &lt;/p&gt;
+  
+
   
 
   
@@ -440,6 +464,8 @@
 
   
 
+  
+
   &lt;/div&gt;
 
 &lt;div style=&quot;margin-left: 20px;&quot;&gt;
@@ -464,6 +490,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;apartment&lt;/span&gt;
   &lt;span&gt; Sophie-Scholl-Schule &lt;/span&gt; 
   &lt;/p&gt;
+  
+
   
 
   
@@ -498,6 +526,8 @@
 
   
 
+  
+
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -517,6 +547,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
   &lt;span&gt;Oct 2019&lt;/span&gt;
   &lt;/p&gt;
+  
+
   
 
   
@@ -548,6 +580,8 @@
 
   
 
+  
+
   &lt;/div&gt;
 
 &lt;div style=&quot;margin-left: 20px;&quot;&gt;
@@ -563,6 +597,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
   &lt;span&gt;Oct 2021&lt;/span&gt;
   &lt;/p&gt;
+  
+
   
 
   
@@ -588,6 +624,8 @@
   &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;date_range&lt;/span&gt;
   &lt;span&gt;Aug 2022&lt;/span&gt;
   &lt;/p&gt;
+  
+
   
 
   
@@ -627,6 +665,8 @@
   
 
   
+
+  
   &lt;blockquote&gt;The need to derive explanations from machine learning (ML)-based AI systems has been addressed in recent research due to the opaqueness of their processing. However, a significant amount of productive AI systems are not based on ML but are expert systems including strong opaqueness. A resulting lack of understanding causes massive inefficiencies in business processes that involve opaque expert systems. This work uses recent research interest in explainable AI (XAI) to generate knowledge for the design of explanations in constraint-based expert systems. Following the Design Science Research paradigm, we develop design requirements and design principles. Subsequently, we design an artifact and evaluate the artifact in two experiments. We observe the following phenomena. First, global explanations in a textual format were well-received. Second, abstract local explanations improved comprehensibility. Third, contrastive explanations successfully assisted in the resolution of contradictions. Finally, a local tree-based explanation was perceived as challenging to understand.&lt;/blockquote&gt;
   
 
@@ -662,6 +702,8 @@
 
   
 
+  
+
   &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -674,6 +716,8 @@
   English
   &lt;/h3&gt;
   
+  
+
   
 
   
@@ -703,6 +747,8 @@
   
 
   
+
+  
   &lt;blockquote&gt;Professional working proficiency&lt;/blockquote&gt;
   
 
@@ -723,6 +769,8 @@
   
 
   
+
+  
   &lt;blockquote&gt;Native or bilingual proficiency&lt;/blockquote&gt;
   
 
@@ -734,6 +782,8 @@
   Catalan
   &lt;/h3&gt;
   
+  
+
   
 
   
@@ -769,6 +819,13 @@
 
   
 
+  
+
+  
+  &lt;p&gt;
+  &lt;span class=&quot;material-icons&quot; style=&quot;font-size: 1em; vertical-align: middle;&quot;&gt;workspace_premium&lt;/span&gt;
+  &lt;span&gt; 1.0 &lt;/span&gt; 
+  &lt;/p&gt;
   
 
   
