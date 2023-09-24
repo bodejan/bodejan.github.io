@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Jan Bode's</title>
+ <title>Jan Bode</title>
  <link href="https://bodejan.github.io//atom.xml" rel="self"/>
  <link href="https://bodejan.github.io//"/>
- <updated>2023-09-24T15:03:21-06:00</updated>
+ <updated>2023-09-24T15:07:39-06:00</updated>
  <id>https://bodejan.github.io/</id>
  <author>
    <name>Jan Bode</name>
