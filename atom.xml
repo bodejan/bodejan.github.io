@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Jan Bode</title>
- <link href="https://bodejan.github.io//atom.xml" rel="self"/>
- <link href="https://bodejan.github.io//"/>
- <updated>2023-09-24T15:07:39-06:00</updated>
- <id>https://bodejan.github.io/</id>
+ <link href="https://jan.bod3.de/atom.xml" rel="self"/>
+ <link href="https://jan.bod3.de/"/>
+ <updated>2023-09-24T15:17:17-06:00</updated>
+ <id>https://jan.bod3.de</id>
  <author>
    <name>Jan Bode</name>
    <email>jan@bod3.de</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Curriculum Vitae</title>
-   <link href="https://bodejan.github.io//2023/09/20/cv/"/>
+   <link href="https://jan.bod3.de/2023/09/20/cv/"/>
    <updated>2023-09-20T00:00:00-06:00</updated>
-   <id>https://bodejan.github.io//2023/09/20/cv</id>
+   <id>https://jan.bod3.de/2023/09/20/cv</id>
    <content type="html">
 &lt;h2&gt;Positions&lt;/h2&gt;
 
