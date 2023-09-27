@@ -1,15 +1,16 @@
 title: Jan Bode
 tagline: Personal Website
 description: ''
-url: https://jan.bod3.de
+url: https://jan.bod3.de/
+custom_domain: 'True'
 baseurl: ''
-paginate: 5
-permalink: pretty
+google_analytics_id: G-DHPYNS7ET1
 author:
   name: Jan Bode
   url: jan.bod3.de
   email: jan@bod3.de
+paginate: 5
+permalink: pretty
 plugins:
 - jekyll-paginate
 version: 1.1.0
-google_analytics_id: G-DHPYNS7ET1
